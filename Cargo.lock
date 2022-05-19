@@ -426,6 +426,7 @@ dependencies = [
  "console_error_panic_hook",
  "eframe",
  "egui",
+ "once_cell",
  "serde",
  "tracing-subscriber",
  "tracing-wasm",
